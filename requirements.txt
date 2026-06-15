@@ -1,0 +1,11 @@
+# Core engine
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+
+# UI
+streamlit>=1.36
+plotly>=5.22
+
+# Optional: real data via Yahoo Finance (synthetic data works without it)
+yfinance>=0.2.40
